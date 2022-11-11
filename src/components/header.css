@@ -1,0 +1,52 @@
+#header {
+
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.264);
+    
+}
+
+.centerhead{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+li{
+    list-style-type: none;
+}
+.socbtns {
+    padding-left: 30%;
+   
+}
+
+.socbtns a, .socbtns a:hover {
+    color: #777;
+    text-decoration: none;
+    padding: 5px;
+    padding-top: 2px;
+}
+.fa {
+    display: inline-block;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: 1;
+    font-family: FontAwesome;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+big {
+    color: #777;
+}
+
+
+
+
